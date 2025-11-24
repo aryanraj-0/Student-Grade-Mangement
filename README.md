@@ -27,3 +27,13 @@ File Handling: Currently, data is lost when the program closes. A future update 
 Grade Calculation: Add a feature to automatically calculate the class average or assign letter grades (A, B, C).
 Author: [Aryan Raj]
 Registration number:25BAI10693
+
+<img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/92927c8e-0182-4820-9a38-58d4f9ce6803" />
+<img width="1920" height="1080" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/926a61eb-4ec4-4a95-9ad0-d877d5b82cc7" />
+<img width="1920" height="1080" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/94d1834d-d3f4-4600-a044-99033279c526" />
+
+
+
+
+
+
